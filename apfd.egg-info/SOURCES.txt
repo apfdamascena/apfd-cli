@@ -1,0 +1,9 @@
+setup.py
+apfd/__init__.py
+apfd/cli.py
+apfd.egg-info/PKG-INFO
+apfd.egg-info/SOURCES.txt
+apfd.egg-info/dependency_links.txt
+apfd.egg-info/entry_points.txt
+apfd.egg-info/requires.txt
+apfd.egg-info/top_level.txt

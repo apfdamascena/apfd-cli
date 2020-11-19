@@ -1,0 +1,4 @@
+ 
+        [console_scripts]
+        apfd = apfd.cli:cli
+    
