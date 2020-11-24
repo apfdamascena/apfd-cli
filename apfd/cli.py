@@ -17,9 +17,10 @@ class ComplexCLI(click.MultiCommand):
             return
         return mod.cli
 
-
 @click.command(cls=ComplexCLI)
 def cli():
     """Eai mermao? Fala que eu faço """
     pass
+
+
 
